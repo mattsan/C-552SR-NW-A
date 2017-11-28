@@ -1,0 +1,25 @@
+{
+  "name": "C-552SR-NW-A",
+  "keywords": "7seg, led",
+  "description": "C-552SR-NW-A LED 7seg digits display",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/mattsan/C-552SR-NW-A.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Eiji Matsumoto",
+      "email": "e.mattsan@gmail.com",
+      "url": "http://emattsan.hatenablog.com/",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+  },
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
